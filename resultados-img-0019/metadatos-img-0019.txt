@@ -1,0 +1,34 @@
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+Nombre del archivo: img-BMW-0019.jpg
+Ruta del archivo: C:\Users\Alumno\Documents\mkdir p1-act1-0019\img-original-0019\img-BMW-0019.jpg
+Formato por extension: .JPG
+Tamano en bytes: 20293
+Tamano en KB: 19.82
+Tamano en MB: 0.0194
+
+DIMENSIONES
+-----------
+Ancho: 386 pixeles
+Alto: 518 pixeles
+Resolucion: 386 x 518
+Total de pixeles: 199,948
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 96.56
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 104.77
+Verde (G): 95.86
+Rojo (R): 89.05
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
